@@ -12,3 +12,11 @@ Figure Files:
 [comparisons_to_fullHB.ipynb](comparisons_to_fullHB.ipynb) - computes both joint marginals between the whole brain data and oviIN input connectome and jaccard similarity between connectomes. Needs the input of preprocessed_nodes.csv for both oviIN connectome and whole brain connectome.
 
 [mesoscale_connectivity.ipynb](mesoscale_connectivity.ipynb) - produces analyses about the top 33 inputs to the oviINr based on synaptic weight. Also contains code for the skeleton plots with synaptic connectivity plotted on the arbor and colored by module id that the input neuron is sorted into.
+
+[oviposition_circuit.ipynb](oviposition_circuit.ipynb) - produces plots of synapse counts in oviposition circuit for figure 1. Needs to be cleaned up. File can be renamed after editing.
+
+[ovi_specs_rankings.ipynb](ovi_specs_rankings.ipynb) - produces plots of rankings within the full Hemibrain for figure 2. Also needs to be cleaned up and better organized. File can be renamed after editing.
+
+[hub_spoke_sandbox.ipynb](hub_spoke_sandbox.ipynb) - produces one of the primacy plots (fig. 3A) but that code is buried in the second section. This notebook has a lot of extra junk that needs to get cleared out and Rhessa's code to create figure 3B needs to be incorporated. File should be renamed when that happens.
+
+[cluster_deep_dive.ipynb](cluster_deep_dive.ipynb) - produces the wireframe plot with module-color-coded synaptic sites from figure 4C. There is also a lot of extra stuff that needs to be cleared out and Rhessa's code for creating figures 4A&B needs to be incorporated. File should be renamed when that happens.
