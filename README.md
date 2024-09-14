@@ -19,4 +19,4 @@ Figure Files:
 
 [hub_spoke_sandbox.ipynb](hub_spoke_sandbox.ipynb) - produces one of the primacy plots (fig. 3A) but that code is buried in the second section. This notebook has a lot of extra junk that needs to get cleared out and Rhessa's code to create figure 3B needs to be incorporated. File should be renamed when that happens.
 
-[cluster_deep_dive.ipynb](cluster_deep_dive.ipynb) - produces the wireframe plot with module-color-coded synaptic sites from figure 4C. There is also a lot of extra stuff that needs to be cleared out and Rhessa's code for creating figures 4A&B needs to be incorporated. File should be renamed when that happens.
+[cluster_deep_dive.ipynb](cluster_deep_dive.ipynb) - produces the wireframe plot with module-color-coded synaptic sites from figure 4C. There is also a lot of extra stuff that needs to be cleared out and Rhessa's code for creating figures 4A&B needs to be incorporated. File should be renamed when that happens. Just realized that this is redundant with mesoscale_connectivity.ipynb. I'll edit that file to include this code and then delete this notebook.
