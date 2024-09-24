@@ -3,7 +3,7 @@
 
 [get_connectome.py](get_connectome.py) - queries the Hemibrain to obtain a sub-connectome from the inputs and/or outputs of a specified neuron or group of neurons. This function was initially written by Rhessa and modified by Gabrielle. 
 
-[format_edgelist.py](format_edgelist.py) - formats the sub-connectome in preparation for running modularity on it. This function was contributed by Alex. 
+[format_edgelist.py](gcm_pipeline/format_edgelist.py) - formats the sub-connectome in preparation for running modularity on it. This function was contributed by Alex. 
 
 Figure Files:
 
@@ -20,6 +20,8 @@ Figure Files:
 [ovi_specs_rankings.ipynb](ovi_specs_rankings.ipynb) - produces plots of rankings within the full Hemibrain for figure 2. Also needs to be cleaned up and better organized. File can be renamed after editing.
 
 [cluster_deep_dive.ipynb](cluster_deep_dive.ipynb) - produces the wireframe plot with module-color-coded synaptic sites from figure 4C. There is also a lot of extra stuff that needs to be cleared out and Rhessa's code for creating figures 4A&B needs to be incorporated. File should be renamed when that happens. Just realized that this is redundant with mesoscale_connectivity.ipynb. I'll edit that file to include this code and then delete this notebook.
+
+[Figures](figures/) - holds all figure files created by figure analysis files.
 
 Previous Files:
 
