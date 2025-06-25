@@ -1,8 +1,8 @@
-<span style="font-family:Papyrus; font-size:6em;"> # oviIN inputs</span>
+# oviIN inputs
 
  <span style="font-size:1.5em;">**Studying the sub-connectome induced by the inputs to oviIN. Includes scripts to process the datasets and produce figures.**</span>
 
-<span style="color:darkblue">The analysis, data and figures in this repository are created and published for this manuscript:</span>
+<span style="color:darkblue">**The analysis, data, and figures in this repository are created and published for this manuscript:**</span>
 
 Weber Langstaff, R., Srivastava, P., Kunin, A. B. & Gutierrez, G. J. The Oviposition Inhibitory Neuron is a potential hub of multi-circuit integration in the Drosophila brain. 2024.10.25.620362 Preprint at https://doi.org/10.1101/2024.10.25.620362 (2025).
 
@@ -47,6 +47,7 @@ Weber Langstaff, R., Srivastava, P., Kunin, A. B. & Gutierrez, G. J. The Oviposi
 
 ## Folders: 
 [figures](figures/) - holds all figure files created by analysis files and used in the manuscript.
+
 [data](data/) - holds all data files used for analysis. 
 * Dataframes in the [data/exported-traced-adjacencies](data/exported-traced-adjacencies-v1.2/) folder are pulled and saved through the Neuprint-python API. 
 * Dataframes in [data/preprocessed-v1.2](data/preprocessed-v1.2/) are created from running modularity on the full hemibrain dataset and then merging on neuron data.
