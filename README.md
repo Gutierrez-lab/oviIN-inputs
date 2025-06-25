@@ -1,4 +1,4 @@
-<span style="font-family:Papyrus; font-size:6em;">oviIN inputs</span>
+<span style="font-family:Papyrus; font-size:6em;"> # oviIN inputs</span>
 
  <span style="font-size:1.5em;">**Studying the sub-connectome induced by the inputs to oviIN. Includes scripts to process the datasets and produce figures.**</span>
 
