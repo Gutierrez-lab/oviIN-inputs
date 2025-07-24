@@ -41,6 +41,8 @@ Weber Langstaff, R., Srivastava, P., Kunin, A. B. & Gutierrez, G. J. The Oviposi
 
 [module_syn_placement.ipynb](module_syn_placement.ipynb) - follows a similar process for skeleton plots as in [mesoscale_connectivity](mesoscale_connectivity.ipynb). This file produces a supplemental figure that shows the synapse placement for each module. Modularity data and connection to Neuprint is required for this file.
 
+[module_morphology.ipynb](module_morphology.ipynb) - using fetch_skeleton from the neuprint-python API, this file creates plots for each module that includes the neuron morphology in that module. The modularity data and bokeh is required for this plotting.
+
 [participation.ipynb](participation.ipynb) - computes the correlation coefficients of inputs, prominence, participation coefficients, and directed participation analysis. This file produces figures that requires the full hemibrain and oviIN\_R modularity results
 
 [pooled_similarity.ipynb](pooled_similarity.ipynb) - contains the process for creating the pooled similarity figures as well as the supplemental figures for this analysis.
