@@ -165,3 +165,13 @@ cython_debug/
 
 /clean_
 flybrain.auth.txt
+figures/mod_skeletons/mod1_skeletons.svg
+.gitignore
+figures/mod_skeletons/mod7_skeletons.svg
+figures/mod_skeletons/mod6_skeletons.svg
+figures/mod_skeletons/mod5_skeletons.svg
+.gitignore
+figures/mod_skeletons/mod4_skeletons.svg
+.gitignore
+figures/mod_skeletons/mod2_skeletons.svg
+figures/mod_skeletons/mod3_skeletons.svg
