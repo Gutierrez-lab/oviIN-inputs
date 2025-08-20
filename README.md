@@ -47,8 +47,6 @@ Weber Langstaff, R., Srivastava, P., Kunin, A. B. & Gutierrez, G. J. The Oviposi
 
 [pooled_similarity.ipynb](pooled_similarity.ipynb) - contains the process for creating the pooled similarity figures as well as the supplemental figures for this analysis.
 
-[skeleton_visual_manuscirpt.ipynb](skeleton_visual_manuscirpt.ipynb) - process skeleton and modularity data to produce skeleton figures of top 100 neuron inputs to the oviIN_R. Requires auth token from neuprint and background image found in figures folder.
-
 ## Folders: 
 [figures](figures/) - holds all figure files created by analysis files and used in the manuscript.
 
